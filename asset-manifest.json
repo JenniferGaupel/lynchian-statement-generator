@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lynchian-statement-generator/static/css/main.e760eaea.css",
+    "main.js": "/lynchian-statement-generator/static/js/main.bb0330c5.js",
+    "static/js/787.1751dd3b.chunk.js": "/lynchian-statement-generator/static/js/787.1751dd3b.chunk.js",
+    "static/media/background.jpg": "/lynchian-statement-generator/static/media/background.c7eb1466aef7d5bd00dd.jpg",
+    "index.html": "/lynchian-statement-generator/index.html",
+    "main.e760eaea.css.map": "/lynchian-statement-generator/static/css/main.e760eaea.css.map",
+    "main.bb0330c5.js.map": "/lynchian-statement-generator/static/js/main.bb0330c5.js.map",
+    "787.1751dd3b.chunk.js.map": "/lynchian-statement-generator/static/js/787.1751dd3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e760eaea.css",
+    "static/js/main.bb0330c5.js"
+  ]
+}
